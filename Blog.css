@@ -1,0 +1,595 @@
+.u-block-1d97-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-1d97-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-1d97-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/bride-groom-their-beach-wedding.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 16px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 506px 244px 0 290px;
+}
+
+.u-section-1-1 .u-text-2 {
+  font-size: 1rem;
+  margin: 29px auto 0;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 18px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 13px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-right: 144px;
+    margin-left: 190px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 10px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-right: 34px;
+    margin-left: 80px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 8px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 5px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('images/tg-min.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 520px 244px 0 290px;
+}
+
+.u-section-1-2 .u-text-2 {
+  font-size: 1rem;
+  margin: 23px 352px 0;
+}
+
+.u-section-1-2 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 17px 493px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 144px;
+    margin-left: 190px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 290px;
+    margin-left: 290px;
+  }
+
+  .u-section-1-2 .u-btn-1 {
+    margin-left: 393px;
+    margin-right: 393px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-right: 34px;
+    margin-left: 80px;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 222px;
+    margin-left: 222px;
+  }
+
+  .u-section-1-2 .u-btn-1 {
+    margin-left: 283px;
+    margin-right: 283px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 167px;
+    margin-left: 167px;
+  }
+
+  .u-section-1-2 .u-btn-1 {
+    margin-left: 193px;
+    margin-right: 193px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1-2 .u-text-2 {
+    margin-right: 105px;
+    margin-left: 105px;
+  }
+
+  .u-section-1-2 .u-btn-1 {
+    margin-left: 93px;
+    margin-right: 93px;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('images/high-angle-girl-posing-with-flow.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-3 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 520px 244px 0 290px;
+}
+
+.u-section-1-3 .u-text-2 {
+  font-size: 1rem;
+  margin: 23px 352px 0;
+}
+
+.u-section-1-3 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 17px 493px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-right: 144px;
+    margin-left: 190px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-right: 290px;
+    margin-left: 290px;
+  }
+
+  .u-section-1-3 .u-btn-1 {
+    margin-left: 393px;
+    margin-right: 393px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-right: 34px;
+    margin-left: 80px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-right: 222px;
+    margin-left: 222px;
+  }
+
+  .u-section-1-3 .u-btn-1 {
+    margin-left: 283px;
+    margin-right: 283px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-right: 167px;
+    margin-left: 167px;
+  }
+
+  .u-section-1-3 .u-btn-1 {
+    margin-left: 193px;
+    margin-right: 193px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-right: 105px;
+    margin-left: 105px;
+  }
+
+  .u-section-1-3 .u-btn-1 {
+    margin-left: 93px;
+    margin-right: 93px;
+  }
+}
+
+ .u-section-1-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('images/young-bride-groom-having-beach-w.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-4 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-4 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 520px 244px 0 290px;
+}
+
+.u-section-1-4 .u-text-2 {
+  font-size: 1rem;
+  margin: 23px 352px 0;
+}
+
+.u-section-1-4 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 17px 493px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    margin-right: 144px;
+    margin-left: 190px;
+  }
+
+  .u-section-1-4 .u-text-2 {
+    margin-right: 290px;
+    margin-left: 290px;
+  }
+
+  .u-section-1-4 .u-btn-1 {
+    margin-left: 393px;
+    margin-right: 393px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    margin-right: 34px;
+    margin-left: 80px;
+  }
+
+  .u-section-1-4 .u-text-2 {
+    margin-right: 222px;
+    margin-left: 222px;
+  }
+
+  .u-section-1-4 .u-btn-1 {
+    margin-left: 283px;
+    margin-right: 283px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1-4 .u-text-2 {
+    margin-right: 167px;
+    margin-left: 167px;
+  }
+
+  .u-section-1-4 .u-btn-1 {
+    margin-left: 193px;
+    margin-right: 193px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1-4 .u-text-2 {
+    margin-right: 105px;
+    margin-left: 105px;
+  }
+
+  .u-section-1-4 .u-btn-1 {
+    margin-left: 93px;
+    margin-right: 93px;
+  }
+}
+
+ .u-section-1-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/women-making-preparations-weddin2.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-5 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-5 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 506px 244px 0 290px;
+}
+
+.u-section-1-5 .u-text-2 {
+  font-size: 1rem;
+  margin: 29px auto 0;
+}
+
+.u-section-1-5 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 18px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-5 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1-5 .u-text-1 {
+    margin-right: 144px;
+    margin-left: 190px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-5 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1-5 .u-text-1 {
+    margin-right: 34px;
+    margin-left: 80px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-5 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1-5 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-5 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1-5 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+ .u-section-1-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('images/young-bride-groom-having-beach-w1.jpg');
+  background-position: 50% 50%;
+  min-height: 800px;
+}
+
+.u-section-1-6 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 520px calc(((100% - 1140px) / 2)  + 120px) 0 calc(((100% - 1140px) / 2)  + 166px);
+}
+
+.u-section-1-6 .u-text-2 {
+  font-size: 1rem;
+  margin: 23px 352px 0 calc(((100% - 1140px) / 2)  + 228px);
+}
+
+.u-section-1-6 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 17px auto 0 calc(((100% - 1140px) / 2)  + 369px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1-6 {
+    min-height: 660px;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    margin-right: calc(((100% - 940px) / 2) + 20px);
+    margin-left: calc(((100% - 940px) / 2) + 66px);
+  }
+
+  .u-section-1-6 .u-text-2 {
+    margin-right: 290px;
+    margin-left: calc(((100% - 940px) / 2) + 228px);
+  }
+
+  .u-section-1-6 .u-btn-1 {
+    margin-left: calc(((100% - 940px) / 2) + 169px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1-6 {
+    min-height: 506px;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1-6 .u-text-2 {
+    margin-right: 222px;
+    margin-left: calc(((100% - 720px) / 2) + 228px);
+  }
+
+  .u-section-1-6 .u-btn-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-6 {
+    min-height: 380px;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1-6 .u-text-2 {
+    margin-right: 167px;
+    margin-left: calc(((100% - 540px) / 2) + 171px);
+  }
+
+  .u-section-1-6 .u-btn-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-6 {
+    min-height: 239px;
+  }
+
+  .u-section-1-6 .u-text-1 {
+    font-size: 3rem;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1-6 .u-text-2 {
+    margin-right: 105px;
+    margin-left: calc(((100% - 340px) / 2) + 108px);
+  }
+
+  .u-section-1-6 .u-btn-1 {
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
